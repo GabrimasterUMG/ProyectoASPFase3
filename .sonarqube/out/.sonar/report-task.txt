@@ -1,0 +1,6 @@
+projectKey=ProyectoFaseV2
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=ProyectoFaseV2
+ceTaskId=AW1pjWH_8hTLiRtHAGQt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW1pjWH_8hTLiRtHAGQt

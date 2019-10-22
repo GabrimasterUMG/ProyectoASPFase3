@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>UnitTestProject</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>85eb5dc2-9a16-49f0-ac3d-73181ec891fa</ProjectGuid>
+  <FullPath>C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\UnitTestProject\UnitTestProject.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\UnitTestProject\bin\Debug\UnitTestProject.dll.RoslynCA.json|C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\UnitTestProject\bin\Debug\UnitTestProject.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

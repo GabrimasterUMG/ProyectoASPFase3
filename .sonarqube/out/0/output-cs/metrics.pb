@@ -1,0 +1,25 @@
+†
+ØC:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\App_Start\RouteConfig.cs (08@HR 0=1;5=0;10=0;20=0;30=0;60=0;90=0Z1=1;2=0;4=0;6=0;8=0;10=0;12=0r	
+Çô
+µC:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Controllers\AreasController.csB (08$@$H$R 0=0;5=0;10=0;20=0;30=1;60=0;90=0Z1=5;2=3;4=4;6=1;8=0;10=0;12=0j	.;Gj|°≥rù	
+!"#$%&'()*+,/0123456789<=>?@ABCDEHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefklmnopqrstuvwxyz}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü¢£§•¶ß®©™´¨≠ÆØ∞±¥∂∑∏π∫ªºΩæø¿¡√ƒ≈∆«»… ÀÃÕŒœ–—”‘’÷◊Ÿ⁄€‹›ﬁ·x.Ç`#%&*137>@CLPRSTUY^_dmoprtxÅÉÑÜàäåéíìóòù§¶ß©´Øπªº¿¡√«»Àœ’÷€‹Ö
+∫C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Controllers\AsistenciaController.cs  (08@HR 0=0;5=0;10=1;20=0;30=0;60=0;90=0Z1=0;2=1;4=0;6=0;8=1;10=0;12=0j)rM
+ !"#$%&'()+,-/0123456789:;<=>?@ABDEFGHIJKLMNOPQRSTxÇ "$%'()+,012345678<>?@ADJLP¡
+∂C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Controllers\CARGOSController.cs; 	(	0	8"@"H"R 0=0;5=0;10=0;20=0;30=1;60=0;90=0Z1=0;2=4;4=5;6=0;8=0;10=0;12=0j4YÜúrÿ	 !"#$%&'()*+,-./01256789:;<=>?@BCDEFGHIJKLMNPQRSTUVWZ[\]^_`abcdefghijklmnqrstuvwxyz{|}~ÄÅÇÉÑáàâäãåçéèêëíìîïñóòôöùûü†°¢£§•¶ß®©™´¨ÆØ∞±≤≥¥µ∂∑x)ÇM!#%'(*,079:>FHJKLMPQU\^`bceghluwyz{}~Çâãçèêíîò°£§•¶™∞≤¥≤
+πC:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Controllers\EMPLEADOSController.csK 
+(
+0
+8(@(H(R 0=0;5=0;10=0;20=0;30=1;60=0;90=0Z1=0;2=4;4=5;6=1;8=0;10=0;12=0j<Bzëíì´¡rö	 !"$%&'()*+,-./0123456789:=>?@ABCDEFGHJMNOPQRSTUVWXZ[\]^_`abcdefghijklmnopqrstuvwx{|}~ÄÅÇÉÑÖÜáàâäãåçéèîïñóòôöõúùûü†°¢£§•¶ß®©¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¬√ƒ≈∆«»… ÀÃÕŒœ–—”‘’÷◊ÿŸ⁄‹›x4Çr!$&(*+-/38?ABCDGQSUVWZ[\]agijkmopqsv}ÅÉÑÜàâäãçòöúùû†°¢£ßÆ∞≤¥µ∑πΩ∆»… Àœ’◊ŸÁ
+µC:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Controllers\LoginController.cs (08@HR 0=0;5=0;10=1;20=0;30=0;60=0;90=0Z1=1;2=2;4=1;6=0;8=0;10=0;12=0jr@	
+ !"#%&'()*+,-./012356789:;<=>@BCDEFKLxÇ!"#%'()*./279=DEº
+∏C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Controllers\USUARIOSController.cs: 	(	0	8"@"H"R 0=0;5=0;10=0;20=0;30=1;60=0;90=0Z1=0;2=4;4=5;6=0;8=0;10=0;12=0j4XÑör“	 !"#$%&'()*+,-./01256789:;<=>?@BCDEFGHIJKLMOPQRSTUVYZ[\]^_`abcdefghijklopqrstuvwxyz{|}~ÄÅÇÖÜáàâäãåçéèêëíìîïñóòõúùûü†°¢£§•¶ß®©´¨≠ÆØ∞±≤≥¥x)ÇL"$&()+-079:>FHJKLOPT[]_abdfgjsuwxy{|Äáâãçéêíñü°¢£§ß≠Ø±ë
+•C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Global.asax.cs (08@HR 0=1;5=0;10=0;20=0;30=0;60=0;90=0Z1=1;2=0;4=0;6=0;8=0;10=0;12=0r	
+Çå
+¶C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Models\Login.cs (08@HR 0=0;5=1;10=0;20=0;30=0;60=0;90=0Z1=6;2=0;4=0;6=0;8=0;10=0;12=0r	
+ñ
+±C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\Properties\AssemblyInfo.csR 0=1;5=0;10=0;20=0;30=0;60=0;90=0Z1=0;2=0;4=0;6=0;8=0;10=0;12=0j !r	
+"#¢
+ØC:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\serv\AreasRepositorio.cs (08@HR 0=1;5=0;10=0;20=0;30=0;60=0;90=0Z1=2;2=0;4=0;6=0;8=0;10=0;12=0r	
+Çà
+∞C:\Users\user\Downloads\Gabriel\0. UMG 2019\2 Semestre\Calidad del SOftware\SisWebAsistencia-master\systemWeb\Sys_Mvc_ControlAsitenciaPersonal\WebSite\serv\IAreasRepositorio.cs(0R 0=1;5=0;10=0;20=0;30=0;60=0;90=0Z1=0;2=0;4=0;6=0;8=0;10=0;12=0r	
+
