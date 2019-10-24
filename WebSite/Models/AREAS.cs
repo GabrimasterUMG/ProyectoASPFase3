@@ -23,7 +23,7 @@ namespace WebSite.Models
         [Key]
         [Display(Name = "ID Area")]
         public int ID_AREA { get; set; }
-        [Required(ErrorMessage="Ingrese nombre")]
+        [Required(ErrorMessage="Ingrese nombre correcto")]
         [Display(Name="Nombre")]
         public string NOMBRE { get; set; }
     
