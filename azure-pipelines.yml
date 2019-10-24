@@ -32,7 +32,5 @@ steps:
     configuration: '$(buildConfiguration)'
 
 
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'publish'
-    publishWebProjects: true
+
+
