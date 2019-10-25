@@ -22,7 +22,7 @@ namespace WebSite.Models
         [Key]
         [Display(Name = "ID Empleado")]
         public int ID_EMPLEADO { get; set; }
-        [Required(ErrorMessage = "Ingrese DNI")]
+        [Required(ErrorMessage = "Ingrese DNI correcto")]
         [Display(Name = "DNI")]
         public string DNI { get; set; }
         [Required(ErrorMessage = "Ingrese nombre")]
