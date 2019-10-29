@@ -22,7 +22,7 @@ namespace WebSite.Models
         [Key]
         [Display(Name = "ID Distrito")]
         public int ID_DISTRITO { get; set; }
-        [Required(ErrorMessage = "Ingrese nombre")]
+        [Required(ErrorMessage = "Ingrese nombre correcto")]
         [Display(Name = "Nombre")]
         public string NOMBRE { get; set; }
     
