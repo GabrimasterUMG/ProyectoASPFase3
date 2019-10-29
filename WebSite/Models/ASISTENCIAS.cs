@@ -18,7 +18,7 @@ namespace WebSite.Models
         [Key]
         [Display(Name = "ID")]
         public int ID_sis { get; set; }
-        [Required(ErrorMessage = "Ingrese fecha")]
+        [Required(ErrorMessage = "Ingrese fecha correcta")]
         [Display(Name = "Fecha")]
         public string FECHA { get; set; }
         [Required(ErrorMessage = "Ingrese id empleado")]
