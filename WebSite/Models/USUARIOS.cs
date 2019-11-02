@@ -15,13 +15,13 @@ namespace WebSite.Models
     
     public partial class USUARIOS
     {
-        [Required(ErrorMessage = "Ingrese usuario correcto")]
+        [Required(ErrorMessage = "Ingrese usuario")]
         [Display(Name = "Usuuario")]
         public string ID_USUARIO { get; set; }
-        [Required(ErrorMessage = "Ingrese contraseña correcta")]
+        [Required(ErrorMessage = "Ingrese contraseña")]
         [Display(Name = "Contraseña")]
         public string CONTRASEÑA { get; set; }
-        [Required(ErrorMessage = "Ingrese Tipo")]
+        [Required(ErrorMessage = "Ingrese Tipo correcto")]
         [Display(Name = "Tipo")]
         public string TIPO { get; set; }
         
