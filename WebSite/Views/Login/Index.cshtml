@@ -22,7 +22,7 @@
                 </div>
             }
 
-            <h2 class="form-signin-heading">Iniciar Session</h2>
+            <h2 class="form-signin-heading">Iniciar Sistemas</h2>
 
             @Html.LabelFor(u => u.ID_USUARIO, new { @class = "sr-only" })
             @Html.TextBoxFor(u => u.ID_USUARIO, new { @class = "form-control", placeholder = "Usuario" })
@@ -31,7 +31,7 @@
             @Html.LabelFor(u => u.CONTRASEÑA, new { @class = "sr-only" })
             @Html.PasswordFor(u => u.CONTRASEÑA, new { @class = "form-control", placeholder = "Contraseña"})
 
-            <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Click para entrar</button>
     <div>@Html.ValidationMessageFor(u => u.ID_USUARIO)</div>
     <div>@Html.ValidationMessageFor(u => u.CONTRASEÑA)</div>
         }
